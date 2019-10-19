@@ -20,8 +20,8 @@
 #define SERIAL_AX Serial
 #endif
 
-#define AX12_ID 0
-#define TARGET_ID 0
+#define AX12_ID 1
+#define TARGET_ID 1
 #define AX12_BAUDRATE 1000000
 
 
